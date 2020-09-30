@@ -1,0 +1,6 @@
+{
+	"Player":{"Health":150, "Speed":15, "Damage":25, "Force":7},
+	"Slider":{"Health":100, "Speed":5, "Damage":20, "Force":0},
+	"Dragon":{"Health":100, "Speed":20, "Damage":10, "Force":7},
+	"GolemBoss":{"Health":200, "Speed":40, "Damage":15, "Force":7}
+}
